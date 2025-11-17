@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import './square.css';
 import { motion } from 'framer-motion';
 import { useSelector } from 'react-redux';
