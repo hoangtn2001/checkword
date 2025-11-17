@@ -1,8 +1,7 @@
-import React from 'react';
 import { Square } from '../Square/Square';
 import './board.css';
 import { KeyBoard } from '../KeyBoard/KeyBoard';
-import Key from '../Key/Key';
+
 interface Iprops {
   board: string[];
 }

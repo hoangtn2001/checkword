@@ -1,4 +1,3 @@
-import React from 'react';
 import Key from '../Key/Key';
 import './keyboard.css';
 import { useDispatch, useSelector } from 'react-redux';

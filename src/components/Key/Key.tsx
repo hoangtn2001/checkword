@@ -1,4 +1,3 @@
-import React from 'react';
 import './key.css';
 import { useDispatch, useSelector } from 'react-redux';
 import type { rootState } from '../interface';

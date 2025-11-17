@@ -1,5 +1,3 @@
-import React from 'react';
-
 import './heading.css';
 interface Iprops {
   type: string;
